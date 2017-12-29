@@ -1,4 +1,3 @@
-<this>
 _$
 _jQuery
 acceptData
@@ -147,6 +146,7 @@ slice
 stripAndCollapse()
 support
 swap
+this
 Thrower()
 transports
 Tween()
