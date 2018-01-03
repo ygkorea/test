@@ -1,5 +1,5 @@
-_$
-_jQuery
+$
+jQuery
 acceptData
 access
 addGetHookIf()
