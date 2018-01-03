@@ -147,7 +147,6 @@ stripAndCollapse()
 support
 swap
 this
-this
 Thrower()
 transports
 Tween()
